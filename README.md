@@ -1,2 +1,2 @@
 # Basic-Calculator
-it is a basic calculator using gui with html css and java script #html #css #javascript
+The Development of a web-based Basic Totalizer Compatible with all Browsers.
